@@ -1,0 +1,14 @@
+This is Richard Pilgrim's IPE Assignment from October 2010.
+
+To create the program run 'make'
+
+To run the program call the following command.
+
+./tvguide inputfile outputfile
+
+The input file should read like this:
+
+Name of Show
+day time
+
+An example input file is called test.file

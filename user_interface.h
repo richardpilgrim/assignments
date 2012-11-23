@@ -1,0 +1,1 @@
+void userInterface(char *input, char* output);

@@ -1,0 +1,1 @@
+void loadFile(char *input,char *uday, char *uoption,char *output);
